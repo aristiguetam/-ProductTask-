@@ -2,8 +2,8 @@ import axios from "axios";
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 
-const baseURL = 'http://192.168.18.112:8080/api';
-// const baseURL = 'https://deploy-backend-production-c348.up.railway.app/api';
+// const baseURL = 'http://192.168.18.112:8080/api';
+const baseURL = 'https://deploy-backend-production-c348.up.railway.app/api';
 
 const productosApi = axios.create({ baseURL })
 

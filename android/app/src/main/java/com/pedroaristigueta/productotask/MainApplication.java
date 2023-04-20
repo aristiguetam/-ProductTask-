@@ -1,5 +1,5 @@
-package com.productoapp;
-
+// package com.productoapp;
+package com.pedroaristigueta.productotask;
 import org.devio.rn.splashscreen.SplashScreenReactPackage;
 
 import android.app.Application;

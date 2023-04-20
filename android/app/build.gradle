@@ -97,9 +97,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.productoapp"
+    namespace "com.pedroaristigueta.productotask"
     defaultConfig {
-        applicationId "com.productoapp"
+        applicationId "com.pedroaristigueta.productotask"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

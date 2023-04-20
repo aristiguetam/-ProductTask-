@@ -1,4 +1,5 @@
-package com.productoapp;
+// package com.productoapp;
+package com.pedroaristigueta.productotask;
 import android.os.Bundle;
 
 import com.facebook.react.ReactActivity;
